@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\kochkin.ao\Documents\Primo\особое задание\Перебор папок.ltw</Key>
+            <Value>1c8aac01-5dc8-4fbf-a321-0491c7c0e4f3</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\kochkin.ao\Documents\Primo\особое задание\FolderCycle.ltw</Key>
+            <Value>5dac295c-a3a5-4a25-a620-ada16540b123</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints />
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\kochkin.ao\Documents\Primo\особое задание\Перебо папок.ltw</string>
+        <string>C:\Users\kochkin.ao\Documents\Primo\особое задание\Перебор папок.ltw</string>
+        <string>C:\Users\kochkin.ao\Documents\Primo\особое задание\Main.ltw</string>
+        <string>C:\Users\kochkin.ao\Documents\Primo\особое задание\ConfigInit.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
